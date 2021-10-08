@@ -1,0 +1,380 @@
+OriginalVariableNames	Var1_1	Var1_2	Var1_3	Var1_4	Var1_5	Var1_6	Var1_7	Var1_8	Var1_9	Var1_10	Var1_11	Var1_12	Var1_13	Var1_14	Var1_15	Var1_16	Var1_17	Var1_18	Var1_19	Var1_20	Var1_21	Var1_22	Var1_23	Var1_24	Var1_25	Var1_26	Var1_27	Var1_28	Var1_29	Var1_30
+Filename	/Users/Gustav/Desktop/01101_sBTFE_SA_RT_S5_33ms_0W_HF80/00001.dcm																													
+FileSize	72454																													
+FileMetaInformationGroupLength	216																													
+FileMetaInformationVersion	0	1																												
+MediaStorageSOPClassUID	1.2.840.10008.5.1.4.1.1.4																													
+MediaStorageSOPInstanceUID	1.3.46.670589.11.71279.5.0.16704.2021092918560189658																													
+TransferSyntaxUID	1.2.840.10008.1.2.1																													
+ImplementationClassUID	1.2.276.0.7230010.3.0.3.6.3																													
+ImplementationVersionName	OFFIS_DCMTK_363																													
+SourceApplicationEntityTitle	AMC-B1-MR-01																													
+SpecificCharacterSet	ISO_IR 100																													
+ImageType	ORIGINAL\PRIMARY\M_FFE\M\FFE																													
+InstanceCreationDate	20210929																													
+InstanceCreationTime	194624.183																													
+InstanceCreatorUID	1.3.46.670589.11.89.5																													
+SOPClassUID	1.2.840.10008.5.1.4.1.1.4																													
+SOPInstanceUID	1.3.46.670589.11.71279.5.0.16704.2021092918560189658																													
+StudyDate	20210929																													
+SeriesDate	20210929																													
+AcquisitionDate	20210929																													
+ContentDate	20210929																													
+StudyTime	180042																													
+SeriesTime	185544.99000																													
+AcquisitionTime	185601.48																													
+ContentTime	185601.48																													
+Modality	MR																													
+Manufacturer	Philips																													
+InstitutionName	AMC Amsterdam																													
+StationName	AMC-B1-MR-01																													
+SeriesDescription	sBTFE_SA_RT_S5_33ms																													
+InstitutionalDepartmentName	Radiologie																													
+ManufacturerModelName	Ingenia																													
+ReferencedPerformedProcedureStepSequence																														
+ReferencedImageSequence																														
+PatientName	20210929_MS_exercisepilot																													
+PatientID	0123																													
+PatientBirthDate	19950101																													
+PatientSex	F																													
+PatientAge	026Y																													
+PatientWeight	62																													
+PregnancyStatus	1																													
+BodyPartExamined	HEART																													
+ScanningSequence	B-FFE																													
+SequenceVariant	GR																													
+ScanOptions	PFP																													
+MRAcquisitionType	MS																													
+SliceThickness	10																													
+RepetitionTime	2.96819996833801																													
+EchoTime	1.428																													
+NumberOfAverages	1																													
+ImagingFrequency	127.803584																													
+ImagedNucleus	1H																													
+EchoNumber	1																													
+MagneticFieldStrength	3																													
+SpacingBetweenSlices	10																													
+NumberOfPhaseEncodingSteps	88																													
+EchoTrainLength	1																													
+PercentSampling	100																													
+PercentPhaseFieldOfView	81.8181818181818																													
+PixelBandwidth	1084																													
+DeviceSerialNumber	71279																													
+SoftwareVersion	5.7.1\5.7.1.1																													
+ProtocolName	WIP sBTFE_SA_RT_S5_33ms																													
+TriggerTime	0																													
+LowRRValue	0																													
+HighRRValue	0																													
+IntervalsAcquired	0																													
+IntervalsRejected	0																													
+HeartRate	0																													
+ReconstructionDiameter	352																													
+ReceiveCoilName	MULTI COIL																													
+AcquisitionMatrix	88	0	0	88																										
+InPlanePhaseEncodingDirection	COL																													
+FlipAngle	55																													
+SAR	3.18436360359191																													
+dBdt	64.3821945190429																													
+Unknown_0018_1320	2.275484																													
+PatientPosition	HFS																													
+AcquisitionDuration	159.244003295898																													
+B_value	0																													
+DiffusionGradientDirection	0	0	0																											
+StudyInstanceUID	1.3.46.670589.11.71279.5.0.17916.2021092918004220000																													
+SeriesInstanceUID	1.3.46.670589.11.71279.5.0.16704.2021092918554500657																													
+StudyID	664819242																													
+SeriesNumber	1101																													
+AcquisitionNumber	11																													
+InstanceNumber	1																													
+ImagePositionPatient	-138.10425688326	-243.6994962003	-120.59431415796																											
+ImageOrientationPatient	0.87827271223068	-0.0201181974261	0.47773665189743	0.2068713158369	0.91675543785095	-0.3417069911956																								
+FrameOfReferenceUID	1.3.46.670589.11.71279.5.0.16236.2021092918031953000																													
+TemporalPositionIdentifier	1																													
+NumberOfTemporalPositions	300																													
+SliceLocation	135.285925519857																													
+SamplesPerPixel	1																													
+PhotometricInterpretation	MONOCHROME2																													
+Rows	176																													
+Columns	176																													
+PixelSpacing	2	2																												
+BitsAllocated	16																													
+BitsStored	12																													
+HighBit	11																													
+PixelRepresentation	0																													
+WindowCenter	1070																													
+WindowWidth	1860																													
+RescaleIntercept	0																													
+RescaleSlope	1.4063492063492																													
+RescaleType	normalized																													
+PerformedStationAETitle	AMC-B1-MR-01																													
+PerformedProcedureStepStartDate	20210929																													
+PerformedProcedureStepStartTime	180042																													
+PerformedProcedureStepEndDate	20210929																													
+PerformedProcedureStepEndTime	180042																													
+PerformedProcedureStepID	664819242																													
+PerformedProtocolCodeSequence																														
+IssueDateOfImagingServiceRequest	20210929																													
+Unknown_0040_2005	180042.206																													
+RealWorldValueMappingSequence																														
+Private_2001_0010	Philips Imaging DD 001																													
+Private_2001_0011	Philips Imaging DD 002																													
+Private_2001_0090	Philips Imaging DD 129																													
+ChemicalShift	0																													
+ChemicalShiftNumberMR	0																													
+B_factor	0																													
+ImageEnhanced	N																													
+ImageTypeEDES	U																													
+PhaseNumber	1																													
+ImagePrepulseDelay	0																													
+SliceNumberMR	1																													
+SliceOrientation	TRANSVERSAL																													
+ArrhythmiaRejection	N																													
+CardiacCycled	N																													
+CardiacGateWidth	0																													
+CardiacSync	NO																													
+DiffusionEchoTime	0																													
+DynamicSeries	Y																													
+EPIFactor	1																													
+NumberOfEchoes	1																													
+NumberOfLocations	1																													
+NumberOfPCDirections	0																													
+NumberOfPhasesMR	1																													
+LocationsInAcquisition	15																													
+PartialMatrixScanned	Y																													
+PCVelocity	0	0	0																											
+PrepulseDelay	0																													
+PrepulseType	NO																													
+ReconstructionNumberMR	1																													
+RespirationSync	NO																													
+SPIR	N																													
+WaterFatShift	0.4007691																													
+MRSeriesFlipAngle	55																													
+SeriesIsInteractive	N																													
+EchoTimeDisplay	1.43																													
+Stack																														
+NumberOfStacks	1																													
+SeriesTransmitted	N																													
+SeriesCommitted	N																													
+ExaminationSource	ELSEWHERE																													
+MRSeriesAcquisitionNumber	11																													
+NumberOfDynamicScans	300																													
+MRSeriesEchoTrainLength	1																													
+MRSeriesImagingFrequency	127.803584																													
+MRSeriesInversionTime	0																													
+MRSeriesMagneticFieldStrength	3																													
+MRSeriesNrOfPhaseEncodingSteps	0																													
+MRSeriesNucleus	1H																													
+MRSeriesNumberOfAverages	1																													
+MRSeriesPercentPhaseFieldOfView	0																													
+MRSeriesPercentSampling	0																													
+MRSeriesTransmittingCoil	S																													
+ExamCardName	CHANCE 20210927 72ch_RT																													
+ProspectiveMotionCorrection	0	0	0	0	0	0																								
+RetrospectiveMotionCorrection	1.7e+38	1.7e+38	1.7e+38	1.7e+38	1.7e+38	1.7e+38																								
+PresentationStateSequence																														
+Private_2005_0010	Philips MR Imaging DD 001																													
+Private_2005_0011	Philips MR Imaging DD 002																													
+Private_2005_0012	Philips MR Imaging DD 003																													
+Private_2005_0013	Philips MR Imaging DD 004																													
+Private_2005_0014	Philips MR Imaging DD 005																													
+Private_2005_0015	Philips MR Imaging DD 006																													
+Private_2005_0016	Philips MR Imaging DD 007																													
+MRImageAngulationAP	-25.53695																													
+MRImageAngulationFH	-13.25405																													
+MRImageAngulationRL	-26.2402																													
+MRImageOffCentreAP	-86.78798																													
+MRImageOffCentreFH	-96.78912																													
+MRImageOffCentreRL	51.79595																													
+MRMaxFP	183765.3																													
+MRMinFP	0																													
+MRScaleIntercept	0																													
+MRScaleSlope	0.008913576																													
+WindowCenterOriginal	1070																													
+WindowWidthOriginal	1860																													
+MRImageTypeMR	M																													
+MRCardiacGating	N																													
+MRSeriesDevelopmentMode	PATCH																													
+MRSeriesDiffusion	N																													
+MRFatSaturationTechnique	N																													
+MRFlowCompensation	N																													
+MRFourierInterpolation	N																													
+MRInverseReconstructed	N																													
+MRLabelSyntax	0																													
+MRMagnetiPrepared	N																													
+MRMagnetTransferConst	N																													
+MRMeasurementScanResolution	88																													
+MIPProtocol	compose																													
+MPRProtocol	compose																													
+NumberOfChemicalShift	0																													
+MRNumberOfMixes	1																													
+MRNumberOfReferences	0																													
+MRNumberOfSlabs	0																													
+MRNumberOfVolumes	1																													
+MROverSampleingPhase	N																													
+MRPackageMode	MAXIMUM																													
+MRPartialFourierFrequency	N																													
+MRPartialFourierPhase	Y																													
+MRPatientReferenceID	701633009																													
+MRPercentScanComplete	100																													
+MRPhaseEncodedRecording	N																													
+MRPlanScanSurveyNumberOfImages	0																													
+MRPPGPPUGating	N																													
+MRSpatialPresaturation	N																													
+MRSeriesRepetitionTime	2.9682	0																												
+MRRespiratoryGating	N																													
+MRSeriesScanDuration	159.244																													
+MRSegmentedKSpace	N																													
+MRSeriesDataType	PIXEL																													
+MRSeriesIsCardiac	N																													
+MRSeriesIsSpectro	N																													
+MRSpoiled	N																													
+MRSteadyState	Y																													
+MRTimeReversedSteadyState	N																													
+MRSeriesTone	N																													
+MRNumberOfRRIntervalRanges	1																													
+MRRRIntervalsDistribution	0																													
+MRStudyOrigin	UNKNOWN																													
+MRStudySequenceNumber	-1																													
+MRImagePrepulseType	NO																													
+MRfMRIStatusIndication	0																													
+MRImageScanningSequencePrivate	FFE																													
+SeriesVolume																														
+MRNumberOfGeometry	0																													
+MRImageDynamicScanBeginTime	0																													
+SyncraScanType	SENSE																													
+MRIsCOCA	N																													
+MRPrivateInversionTime	0																													
+MRSeriesGeometryCorrection	2D																													
+DiffusionDirectionX	0																													
+DiffusionDirectionY	0																													
+DiffusionDirectionZ	0																													
+MRNumberOfRequestExcerpts	0																													
+MRNumberOfSOPCommon	1																													
+MRNoOfFilmConsumption	0																													
+MRNumberOfCodes	1																													
+MRNrOfSoftwareVersion	2																													
+MRNrOfSeriesOperatorsName	0																													
+MRNrOfStudyAdmittingDiagnosticDescr	0																													
+MRNrOfStudyPatientContrastAllergies	0																													
+MRNrOfStudyPatientMedicalAlerts	0																													
+MRNrSCSoftwareVersions	0																													
+MRSpectroSIB0Correction	N																													
+MRSpectroB0EchoTopPosition	0																													
+MRSpectroComplexComponent	REAL																													
+MRSpectroDataOrigin	ORIGINAL																													
+MRSpectroEchoTopPosition	50																													
+MRNumberOfSpectraAcquired	0																													
+MRPhysicalQuantityForChemicalShift	UNKNOWN																													
+MRPhysicalQuantitySpatial	UNKNOWN																													
+MRReferenceFrequency	0																													
+MRSampleOffset	0																													
+MRSamplePitch	0																													
+MRSignalDomainForChemicalShift	PRE_FT																													
+MRSignalDomainSpatial	UNKNOWN																													
+MRSignalType	FID																													
+MRSpectroAdditionalRotations	Y																													
+MRSpectroEchoAcquisition	NO																													
+MRSpectroFrequencyUnit	HERTZ																													
+MRSpectroGamma	0																													
+MRSpectroHiddenLineRemoval	OFF																													
+MRSpectroHorizontalShift	0																													
+MRSpectroNumberOfDisplayRanges	0																													
+MRSpectroNumberOfEchoPulses	0																													
+MRSpectroSICSIntervals	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MRSpectroSIMode	NO																													
+MRSpectroSpectralBW	0																													
+MRSpectroTurboEchoSpacing	1																													
+MRSpectroVerticalShift	0																													
+MRSpectroOffset	0																													
+MRSpectrumPitch	0																													
+MRVolumeSelection	NO																													
+MRNoMixesSpectro	0																													
+MRScanoGramSurveyNumberOfImages	3																													
+MRNumberOfProcedureCodes	0																													
+MRGeolinkID	0																													
+MRStationNo	-1																													
+MRFlowImagesPresent	NO																													
+AnatomicRegCodeValue	SRT.T-32000.Heart																													
+MRMobiviewEnabled	NO																													
+MRIViewBoldEnabled	YES																													
+MRVolumeViewEnabled	YES																													
+MRNumberOfStudyReference	1																													
+MRNumberOfSPSCodes	0																													
+RescaleInterceptOriginal	0																													
+RescaleSlopeOriginal	1.4063492063492																													
+RescaleTypeOriginal	normalized																													
+PrivatePerFrameSq																														
+MFConvTreatSpectorMixNo	2147483647																													
+MRImageDiffBValueNumber	1																													
+MRImageGradientOrientationNumber	1																													
+MRSeriesNrOfDiffBValues	1																													
+MRSeriesNrOfDiffGradOrients	1																													
+MRSeriesPlanMode	MAN																													
+PrivOperatingModeType	STATIC FIELD\RF\GRADIENT																													
+PrivOperatingMode	IEC_FIRST_LEVEL\IEC_FIRST_LEVEL\IEC_NORMAL																													
+MRVersionNumberDeletedImages	0																													
+MRVersionNumberDeletedSpectra	0																													
+MRVersionNumberDeletedBlobsets	0																													
+ViewingHardcopyOnly	N																													
+MRSeriesNrOfLabelTypes	0																													
+ExamPrintStatus	INITIAL																													
+ExamExportStatus	INITIAL																													
+ExamStorageCommitStatus	PARTLY_ACCEPTED																													
+ExamMediaWriteStatus	INITIAL																													
+MRSeriesDBdt	1.7e+38																													
+MRSeriesProtonSAR	1.7e+38																													
+MRSeriesNonProtonSAR	1.7e+38																													
+MRSeriesLocalSAR	1.7e+38																													
+MRSeriesSafetyOverrideMode	N																													
+SpectroExamcard	N																													
+DataDictionaryContentsVersion	datadefs $Revision: 57.0 $																													
+MRIsCoilSurvey	N																													
+AIMDLimitsApplied	N																													
+AIMDHeadSARLimit	0																													
+AIMDWholeBodySARLimit	0																													
+AIMDB1RMSLimit	2.275484																													
+AIMDdbDtLimit	0																													
+TFEFactor	1																													
+AttenuationCorrection	N																													
+FWHMShim	1.7e+38																													
+PowerOptimization	0																													
+CoilQ	1.7e+38																													
+IsB0Series	N																													
+IsB1Series	N																													
+SpecificEnergyDose	0.4681014																													
+MREFrequency	0																													
+MREAmplitude	0																													
+MREMEGFrequency	0																													
+MREMEGPairs	0																													
+MREMEGDirection	NONE																													
+MREMEGAmplitude	0																													
+MRENumberofPhaseDelays	0																													
+MRENumberofMotionCycles	0																													
+MREMotionMegPhaseDelay	0																													
+MREInversionAlgorithmVersion	N/A																													
+SagittalSliceOrder	LR																													
+CoronalSliceOrder	AP																													
+TransversalSliceOrder	FH																													
+SeriesOrientation	FH																													
+MREPhaseDelayNumber	1																													
+NumberOfInversionDelays	0																													
+InversionDelayTime	0																													
+InversionDelayNumber	0																													
+MaxDBDT	0																													
+MaxSAR	0																													
+MetalImplantStatus	NONE																													
+OrientationMirrorFlip	NOMIRRORNOFLIP\NOMIRRORNOFLIP\NOMIRRORNOFLIP																													
+SAROperationMode	FIRSTLEVEL																													
+SpatialGradient	0																													
+PIIM_GRADIENT_SLEW_RATE	0																													
+PIIM_MR_STUDY_B1RMS	0																													
+Private_2005_1595	N																													
+Private_2005_1596	0																													
+Private_2005_1597	N																													
+Private_2005_1599	0																													
+Private_2005_1600	N																													
+Private_2005_1601	0																													
+Private_2005_1602	0																													
+Private_2005_1603	0																													
+PresentationLUTShape	IDENTITY																													
+PixelData																														
