@@ -1,120 +1,120 @@
 OriginalVariableNames	Var1_1	Var1_2	Var1_3	Var1_4	Var1_5	Var1_6	Var1_7	Var1_8	Var1_9	Var1_10	Var1_11	Var1_12	Var1_13	Var1_14	Var1_15	Var1_16	Var1_17	Var1_18	Var1_19	Var1_20	Var1_21	Var1_22	Var1_23	Var1_24	Var1_25	Var1_26	Var1_27	Var1_28	Var1_29	Var1_30
-Filename	/Users/Gustav/Dropbox/Reconstruction_and_analysis_tools/Matlab/MRI-apps example data/RealTimeCine/01001_CINERT_BH_SA/00001.dcm																													
-FileSize	72438																													
+Filename	/Users/gustav/Library/CloudStorage/Dropbox/Reconstruction_and_analysis_tools/Matlab/MRI-apps-example-data/RealTimeCine_app_data/01801_sBFFE_RLT_6slices_S4_FA55_rust_300x224_M132x69_75SP/00001.dcm																													
+FileSize	61764																													
 FileMetaInformationGroupLength	216																													
 FileMetaInformationVersion	0	1																												
 MediaStorageSOPClassUID	1.2.840.10008.5.1.4.1.1.4																													
-MediaStorageSOPInstanceUID	1.3.46.670589.11.42151.5.0.15876.2022092711334361429																													
+MediaStorageSOPInstanceUID	1.3.46.670589.11.42151.5.0.15636.2021052118184851773																													
 TransferSyntaxUID	1.2.840.10008.1.2.1																													
 ImplementationClassUID	1.2.276.0.7230010.3.0.3.6.3																													
 ImplementationVersionName	OFFIS_DCMTK_363																													
 SourceApplicationEntityTitle	AMC-Z0-MR-01																													
 SpecificCharacterSet	ISO_IR 100																													
 ImageType	ORIGINAL\PRIMARY\M_FFE\M\FFE																													
-InstanceCreationDate	20220927																													
-InstanceCreationTime	113732.359																													
+InstanceCreationDate	20210521																													
+InstanceCreationTime	182652.475																													
 InstanceCreatorUID	1.3.46.670589.11.89.5																													
 SOPClassUID	1.2.840.10008.5.1.4.1.1.4																													
-SOPInstanceUID	1.3.46.670589.11.42151.5.0.15876.2022092711334361429																													
-StudyDate	20220927																													
-SeriesDate	20220927																													
-AcquisitionDate	20220927																													
-ContentDate	20220927																													
-StudyTime	110830																													
-SeriesTime	113251.59000																													
-AcquisitionTime	113324.83																													
-ContentTime	113324.83																													
+SOPInstanceUID	1.3.46.670589.11.42151.5.0.15636.2021052118184851773																													
+StudyDate	20210521																													
+SeriesDate	20210521																													
+AcquisitionDate	20210521																													
+ContentDate	20210521																													
+StudyTime	173040																													
+SeriesTime	181817.27000																													
+AcquisitionTime	181843.41																													
+ContentTime	181843.41																													
 Modality	MR																													
 Manufacturer	Philips Healthcare																													
 InstitutionName	A.M.C AMSTERDAM																													
 StationName	AMC-Z0-MR-01																													
-SeriesDescription	CINERT_BH_SA																													
+SeriesDescription	sBFFE_RLT_6slices_S4_FA55_rust_300x224_M132x69_75SP																													
 InstitutionalDepartmentName	Radiologie																													
 ManufacturerModelName	Ingenia																													
 ReferencedPerformedProcedureStepSequence																														
 ReferencedImageSequence																														
-PatientName	ex_CMR_subj1_RT_BH_CINE																													
-PatientID	1230																													
-PatientBirthDate	19841031																													
-PatientSex	M																													
-PatientAge	037Y																													
-PatientWeight	85																													
+PatientName	210521_sub9_T1MS																													
+PatientID	1237																													
+PatientBirthDate	19980101																													
+PatientSex	F																													
+PatientAge	023Y																													
+PatientWeight	74																													
 PregnancyStatus	1																													
-BodyPartExamined	HEART																													
+BodyPartExamined	LIVER																													
 ScanningSequence	B-FFE																													
 SequenceVariant	GR																													
 ScanOptions	PFP																													
 MRAcquisitionType	MS																													
 SliceThickness	10																													
-RepetitionTime	2.98650002479553																													
-EchoTime	1.441																													
+RepetitionTime	2.81820011138916																													
+EchoTime	1.409																													
 NumberOfAverages	1																													
-ImagingFrequency	127.762352																													
+ImagingFrequency	127.762296																													
 ImagedNucleus	1H																													
 EchoNumber	1																													
 MagneticFieldStrength	3																													
 SpacingBetweenSlices	10																													
-NumberOfPhaseEncodingSteps	88																													
+NumberOfPhaseEncodingSteps	97																													
 EchoTrainLength	1																													
-PercentSampling	100																													
-PercentPhaseFieldOfView	81.8181818181818																													
-PixelBandwidth	1084																													
+PercentSampling	73.9130401611328																													
+PercentPhaseFieldOfView	70																													
+PixelBandwidth	2309																													
 DeviceSerialNumber	42151																													
-SoftwareVersion	5.7.1\5.7.1.2																													
-ProtocolName	WIP CINERT_BH_SA																													
+SoftwareVersion	5.7.1\5.7.1.1																													
+ProtocolName	WIP sBFFE_RLT_6slices_S4_FA55_rust_300x224_M132x69_75SP																													
 TriggerTime	0																													
 LowRRValue	0																													
 HighRRValue	0																													
 IntervalsAcquired	0																													
 IntervalsRejected	0																													
 HeartRate	0																													
-ReconstructionDiameter	352																													
+ReconstructionDiameter	320																													
 ReceiveCoilName	MULTI COIL																													
-AcquisitionMatrix	88	0	0	88																										
-InPlanePhaseEncodingDirection	COL																													
+AcquisitionMatrix	0	132	97	0																										
+InPlanePhaseEncodingDirection	ROW																													
 FlipAngle	55																													
-SAR	3.13491559028625																													
-dBdt	72.8352279663086																													
-Unknown_0018_1320	2.257747																													
-PatientPosition	HFS																													
-AcquisitionDuration	19.7199993133545																													
+SAR	3.02575421333313																													
+dBdt	77.8042373657226																													
+Unknown_0018_1320	2.218091																													
+PatientPosition	FFS																													
+AcquisitionDuration	149.475997924805																													
 B_value	0																													
 DiffusionGradientDirection	0	0	0																											
-StudyInstanceUID	1.3.46.670589.11.42151.5.0.6980.2022092711082978000																													
-SeriesInstanceUID	1.3.46.670589.11.42151.5.0.15876.2022092711325162420																													
-StudyID	696157709																													
-SeriesNumber	1001																													
-AcquisitionNumber	10																													
+StudyInstanceUID	1.3.46.670589.11.42151.5.0.6412.2021052117304033002																													
+SeriesInstanceUID	1.3.46.670589.11.42151.5.0.15636.2021052118181730772																													
+StudyID	664126240																													
+SeriesNumber	1801																													
+AcquisitionNumber	18																													
 InstanceNumber	1																													
-ImagePositionPatient	121.217042118311	-266.48238041997	92.2601373791695																											
-ImageOrientationPatient	0.47243925929069	0.83449131250381	-0.2835936546325	-0.627570927143	0.09258499741554	-0.7730347514152																								
-FrameOfReferenceUID	1.3.46.670589.11.42151.5.0.6888.2022092711100562000																													
+ImagePositionPatient	151.627866715193	-185.78543177619	124.451027572155																											
+ImageOrientationPatient	0.297730833292	0.89962238073349	-0.3194306492805	-0.6493687033653	-0.0544213987886	-0.75852394104																								
+FrameOfReferenceUID	1.3.46.670589.11.42151.5.0.13356.2021052117365388001																													
 TemporalPositionIdentifier	1																													
-NumberOfTemporalPositions	40																													
-SliceLocation	167.410660644368																													
+NumberOfTemporalPositions	300																													
+SliceLocation	115.912506231732																													
 SamplesPerPixel	1																													
 PhotometricInterpretation	MONOCHROME2																													
-Rows	176																													
-Columns	176																													
+Rows	160																													
+Columns	160																													
 PixelSpacing	2	2																												
 BitsAllocated	16																													
 BitsStored	12																													
 HighBit	11																													
 PixelRepresentation	0																													
-WindowCenter	2066																													
-WindowWidth	3591																													
+WindowCenter	1070																													
+WindowWidth	1860																													
 RescaleIntercept	0																													
-RescaleSlope	3.08253968253968																													
+RescaleSlope	2.67228327228327																													
 RescaleType	normalized																													
 PerformedStationAETitle	AMC-Z0-MR-01																													
-PerformedProcedureStepStartDate	20220927																													
-PerformedProcedureStepStartTime	110830																													
-PerformedProcedureStepEndDate	20220927																													
-PerformedProcedureStepEndTime	110830																													
-PerformedProcedureStepID	696157709																													
+PerformedProcedureStepStartDate	20210521																													
+PerformedProcedureStepStartTime	173040																													
+PerformedProcedureStepEndDate	20210521																													
+PerformedProcedureStepEndTime	173040																													
+PerformedProcedureStepID	664126240																													
 PerformedProtocolCodeSequence																														
-IssueDateOfImagingServiceRequest	20220927																													
-Unknown_0040_2005	110829.781																													
+IssueDateOfImagingServiceRequest	20210521																													
+Unknown_0040_2005	173040.339																													
 RealWorldValueMappingSequence																														
 Private_2001_0010	Philips Imaging DD 001																													
 Private_2001_0011	Philips Imaging DD 002																													
@@ -139,7 +139,7 @@ NumberOfEchoes	1
 NumberOfLocations	1																													
 NumberOfPCDirections	0																													
 NumberOfPhasesMR	1																													
-LocationsInAcquisition	15																													
+LocationsInAcquisition	14																													
 PartialMatrixScanned	Y																													
 PCVelocity	0	0	0																											
 PrepulseDelay	0																													
@@ -147,19 +147,19 @@ PrepulseType	NO
 ReconstructionNumberMR	1																													
 RespirationSync	NO																													
 SPIR	N																													
-WaterFatShift	0.4006399																													
+WaterFatShift	0.1880918																													
 MRSeriesFlipAngle	55																													
 SeriesIsInteractive	N																													
-EchoTimeDisplay	1.44																													
+EchoTimeDisplay	1.41																													
 Stack																														
 NumberOfStacks	1																													
 SeriesTransmitted	N																													
 SeriesCommitted	N																													
 ExaminationSource	ELSEWHERE																													
-MRSeriesAcquisitionNumber	10																													
-NumberOfDynamicScans	40																													
+MRSeriesAcquisitionNumber	18																													
+NumberOfDynamicScans	300																													
 MRSeriesEchoTrainLength	1																													
-MRSeriesImagingFrequency	127.762352																													
+MRSeriesImagingFrequency	127.762296																													
 MRSeriesInversionTime	0																													
 MRSeriesMagneticFieldStrength	3																													
 MRSeriesNrOfPhaseEncodingSteps	0																													
@@ -168,7 +168,7 @@ MRSeriesNumberOfAverages	1
 MRSeriesPercentPhaseFieldOfView	0																													
 MRSeriesPercentSampling	0																													
 MRSeriesTransmittingCoil	S																													
-ExamCardName	20220701_3bl_FIN_MF_2022-08-31																													
+ExamCardName	CHANCE 17032021 T1/2 72ch																													
 ProspectiveMotionCorrection	0	0	0	0	0	0																								
 RetrospectiveMotionCorrection	1.7e+38	1.7e+38	1.7e+38	1.7e+38	1.7e+38	1.7e+38																								
 PresentationStateSequence																														
@@ -179,18 +179,18 @@ Private_2005_0013	Philips MR Imaging DD 004
 Private_2005_0014	Philips MR Imaging DD 005																													
 Private_2005_0015	Philips MR Imaging DD 006																													
 Private_2005_0016	Philips MR Imaging DD 007																													
-MRImageAngulationAP	38.87114																													
-MRImageAngulationFH	-37.35935																													
-MRImageAngulationRL	6.829682																													
-MRImageOffCentreAP	-104.244																													
-MRImageOffCentreFH	-92.64983																													
-MRImageOffCentreRL	94.069																													
-MRMaxFP	424009.8																													
+MRImageAngulationAP	40.49402																													
+MRImageAngulationFH	-23.04831																													
+MRImageAngulationRL	-4.103737																													
+MRImageOffCentreAP	-51.39848																													
+MRImageOffCentreFH	-46.94375																													
+MRImageOffCentreRL	95.71745																													
+MRMaxFP	129728.1																													
 MRMinFP	0																													
 MRScaleIntercept	0																													
-MRScaleSlope	0.003863137																													
-WindowCenterOriginal	2066																													
-WindowWidthOriginal	3591																													
+MRScaleSlope	0.006407333																													
+WindowCenterOriginal	1070																													
+WindowWidthOriginal	1860																													
 MRImageTypeMR	M																													
 MRCardiacGating	N																													
 MRSeriesDevelopmentMode	PATCH																													
@@ -202,7 +202,7 @@ MRInverseReconstructed	N
 MRLabelSyntax	0																													
 MRMagnetiPrepared	N																													
 MRMagnetTransferConst	N																													
-MRMeasurementScanResolution	88																													
+MRMeasurementScanResolution	132																													
 MIPProtocol	compose																													
 MPRProtocol	compose																													
 NumberOfChemicalShift	0																													
@@ -214,15 +214,15 @@ MROverSampleingPhase	N
 MRPackageMode	MAXIMUM																													
 MRPartialFourierFrequency	N																													
 MRPartialFourierPhase	Y																													
-MRPatientReferenceID	733576215																													
+MRPatientReferenceID	690226623																													
 MRPercentScanComplete	100																													
 MRPhaseEncodedRecording	N																													
 MRPlanScanSurveyNumberOfImages	0																													
 MRPPGPPUGating	N																													
 MRSpatialPresaturation	N																													
-MRSeriesRepetitionTime	2.9865	0																												
+MRSeriesRepetitionTime	2.8182	0																												
 MRRespiratoryGating	N																													
-MRSeriesScanDuration	19.72																													
+MRSeriesScanDuration	149.476																													
 MRSegmentedKSpace	N																													
 MRSeriesDataType	PIXEL																													
 MRSeriesIsCardiac	N																													
@@ -294,14 +294,14 @@ MRNumberOfProcedureCodes	0
 MRGeolinkID	0																													
 MRStationNo	-1																													
 MRFlowImagesPresent	NO																													
-AnatomicRegCodeValue	SRT.T-32000.Heart																													
+AnatomicRegCodeValue	SRT.T-62000.Liver																													
 MRMobiviewEnabled	NO																													
 MRIViewBoldEnabled	YES																													
 MRVolumeViewEnabled	YES																													
 MRNumberOfStudyReference	1																													
 MRNumberOfSPSCodes	0																													
 RescaleInterceptOriginal	0																													
-RescaleSlopeOriginal	3.08253968253968																													
+RescaleSlopeOriginal	2.67228327228327																													
 RescaleTypeOriginal	normalized																													
 PrivatePerFrameSq																														
 MFConvTreatSpectorMixNo	2147483647																													
@@ -319,7 +319,7 @@ ViewingHardcopyOnly	N
 MRSeriesNrOfLabelTypes	0																													
 ExamPrintStatus	INITIAL																													
 ExamExportStatus	INITIAL																													
-ExamStorageCommitStatus	INITIAL																													
+ExamStorageCommitStatus	PARTLY_ACCEPTED																													
 ExamMediaWriteStatus	INITIAL																													
 MRSeriesDBdt	1.7e+38																													
 MRSeriesProtonSAR	1.7e+38																													
@@ -332,7 +332,7 @@ MRIsCoilSurvey	N
 AIMDLimitsApplied	N																													
 AIMDHeadSARLimit	0																													
 AIMDWholeBodySARLimit	0																													
-AIMDB1RMSLimit	2.257748																													
+AIMDB1RMSLimit	2.218091																													
 AIMDdbDtLimit	0																													
 TFEFactor	1																													
 AttenuationCorrection	N																													
@@ -341,7 +341,7 @@ PowerOptimization	0
 CoilQ	1.7e+38																													
 IsB0Series	N																													
 IsB1Series	N																													
-SpecificEnergyDose	0.06182053																													
+SpecificEnergyDose	0.4293545																													
 MREFrequency	0																													
 MREAmplitude	0																													
 MREMEGFrequency	0																													
